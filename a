@@ -6,10 +6,10 @@ acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
 
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tve1.png" group-title="Varios" tvg-id="La 1 HD", 001 La 1 
-acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
+
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tve2.png" group-title="Varios" tvg-id="La 2 HD", 002 La 2
-acestream://60106275d34f995e26bb2cc4a21a42f586c6c555
+
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cero.png" group-title="Varios" tvg-id="M+ #0 HD", [ ESP] #0
 acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
